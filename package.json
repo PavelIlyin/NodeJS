@@ -1,0 +1,24 @@
+{
+  "name": "homework4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task.js",
+  "scripts": {
+    "start": "node task.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.6.2",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "inquirer": "^8.2.0"
+  },
+  "bin": {
+    "reader": "task.js"
+  }
+}
