@@ -1,0 +1,34 @@
+body {
+        font-size: 25px;
+        margin: 0px;
+        padding: 0px;
+}
+
+ul {
+        list-style: none;
+}
+
+li {
+        background-color: aquamarine;
+        width: 15%;
+        margin-bottom: 5px;
+        margin-left: 10px; 
+        padding: 5px;
+        border-radius: 10px;  
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+a:hover {
+        text-shadow: 0px 0px 2px;
+        font-weight: 400;
+}
+
+a:active {
+        font-weight: 100;
+        color: brown;
+}
