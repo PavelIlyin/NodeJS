@@ -1,0 +1,20 @@
+{
+  "name": "homework6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelIlyin/NodeJS/issues"
+  },
+  "homepage": "https://github.com/PavelIlyin/NodeJS#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.4"
+  }
+}
